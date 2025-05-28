@@ -65,8 +65,7 @@ router.get('/', async (req, res) => {
                     });
 
                     await sock.sendMessage(sock.user.id, {
-                        text: `*THE ULITMATE CREDS.JSON GENERATOR*\n*you have used pairing method*\n> YOU HAVE SUCCESSFULLY COMPLETED YOUR FIRST STEP\n> NOW UPLOAD YOUR CREDS.JSON ON YOUR FORKED BOT GITHUB REPO\n____________________________________\n╔════◇\n║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍』\n\n║ ❒ LAZACK: _https://wa.me/255734980103_\n║ ❒ SILVA: _https://wa.me/254743706010_\n\n╚════════════════════❒\n╔═════◇\n║ 『••• OWNER INFO •••』\n║ ❒ LAZACK: _https://wa.me/255734980103_\n║ ❒ SILVA: _https://wa.me/254700143167_\n> fork the following repo\n║ ❒ Repo 1: _https://github.com/Lazack28/Lazack-md_\n║ ❒ Repo 2: _https://github.com/SilvaTechB/silva-md-bot_\n╚════════════════════╝ \n*lazack tech*\n*silva tech inc*\n___________________________________`,
-                    }, { quoted: sockses });
+                        text: `*THE ULITMATE CREDS.JSON GENERATOR*\n*you have used pairing method*\n> YOU HAVE SUCCESSFULLY COMPLETED YOUR FIRST STEP\n> NOW UPLOAD YOUR CREDS.JSON ON YOUR FORKED BOT GITHUB REPO\n____________________________________\n
 
                     await delay(100);
                     return await removeFile('./session');
