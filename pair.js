@@ -76,9 +76,9 @@ router.get('/', async (req, res) => {
    ⇝ Activate your bot instance
 
 🔧 *TECH SUPPORT:*
-   ⌬ Developer: LAZACK
-   ☎ Contact: _https://wa.me/255734980103_
-   ⎔ Repo: _https://github.com/Lazack28/Lazack-md_
+   ⌬ Developer: MICKEY
+   ☎ Contact: _https://wa.me/255711765335_
+   ⎔ Repo: _https://github.com/Mickeydeveloper
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
@@ -89,12 +89,12 @@ router.get('/', async (req, res) => {
 » Mission: "Empower through code"
 
 🔗 *JOIN DEVELOPMENT NETWORK:*
-_https://chat.whatsapp.com/EATTgyi5jx16HgAggPg8yI_
+DM ME 255612130873_
 
 ⚠️ _Keep credentials secure_
 ⚠️ _Maintain fork regularly_
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-*[System ID: LAZACK-MD-v${version.join('.')}]*`
+*[System ID: MICKEY-MD-v${version.join('.')}]*`
                     }, { quoted: sockses });
 
                     await delay(100);
